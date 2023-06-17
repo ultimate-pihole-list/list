@@ -3,4 +3,4 @@ a pihole list
 
 List|URL
 ----|---
-Adlist for pihole-updatelists|https://piholeblocklistsweb.serverobot.de/blacklist/adlist.txt
+Adlist for pihole-updatelists|[Link](https://piholeblocklistsweb.serverobot.de/blacklist/adlist.txt)
