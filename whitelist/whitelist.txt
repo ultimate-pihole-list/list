@@ -1,1 +1,21 @@
+# These are my whitelists
 
+# Google
+clients4.google.com
+clients2.google.com
+
+## Youtube History
+s.youtube.com
+video-stats.l.google.com
+
+## Google Play
+android.clients.google.com
+0.client-channel.google.com
+2.android.pool.ntp.org
+
+## Google Keep
+reminders-pa.googleapis.com
+firestore.googleapis.com
+
+## Gmail
+googleapis.l.google.com
