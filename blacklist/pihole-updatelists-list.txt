@@ -251,3 +251,9 @@ https://v.firebog.net/hosts/Prigent-Adult.txt # block adult sides
 
 # someonehocares
 https://someonewhocares.org/hosts/hosts # how to make the internet not suck (as much)
+
+# easylist
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt # block cookie popup
+https://secure.fanboy.co.nz/fanboy-annoyance.txt # block bad stuff
+https://easylist.to/easylist/easylist.txt # easylist
+https://easylist.to/easylist/easyprivacy.txt # easyprivacy
