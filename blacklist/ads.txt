@@ -1,0 +1,8 @@
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+ads.pinterest.com
+adserver.unityads.unity3d.com
+auction.unityads.unity3d.com
+api.ad.xiaomi.com
