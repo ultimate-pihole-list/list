@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6 # block porn
 
 ## block tracking
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry # block Office Tracking
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry # block native Windows tracking
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung # block native samsung tracking
 
@@ -257,3 +258,22 @@ https://secure.fanboy.co.nz/fanboy-cookiemonster.txt # block cookie popup
 https://secure.fanboy.co.nz/fanboy-annoyance.txt # block bad stuff
 https://easylist.to/easylist/easylist.txt # easylist
 https://easylist.to/easylist/easyprivacy.txt # easyprivacy
+
+# diconect.me
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt # block tracking
+
+# yoyo.org
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1 # block ads
+
+# cybertalk.de
+https://cybertalk.io/lists/FireTVAds.txt # block FireTV ads
+
+# technoy.de
+https://www.technoy.de/lists/Session-Replay.txt # block Session Replay
+https://www.technoy.de/lists/Suspicious.txt # block bad domains
+https://www.technoy.de/lists/fake-streaming.txt # block fake streaming
+https://www.technoy.de/lists/malware2.txt # block malware
+https://www.technoy.de/lists/xporn.txt # block porn
+
+# phishing.army
+https://phishing.army/download/phishing_army_blocklist_extended.txt # block phishing
