@@ -239,3 +239,12 @@ https://urlhaus.abuse.ch/downloads/hostfile/ # block malicious URLs
 
 # metamask
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt # block eth phishing
+
+# firefbog
+https://v.firebog.net/hosts/static/w3kbl.txt # block Suspicious Sites
+https://v.firebog.net/hosts/AdguardDNS.txt # block ads
+https://v.firebog.net/hosts/Admiral.txt # block ads
+https://v.firebog.net/hosts/Easyprivacy.txt # easy privacy
+https://v.firebog.net/hosts/Prigent-Ads.txt # block ads
+https://v.firebog.net/hosts/Prigent-Crypto.txt # block fake crypto
+https://v.firebog.net/hosts/Prigent-Adult.txt # block adult sides
