@@ -236,3 +236,6 @@ https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt # blo
 
 # url house
 https://urlhaus.abuse.ch/downloads/hostfile/ # block malicious URLs
+
+# metamask
+https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt # block eth phishing
