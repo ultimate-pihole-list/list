@@ -1,0 +1,5 @@
+# this list blocks the domains of the afd
+afd.de
+www.afd.de
+einzelfallticker.de
+www.einzelfallticker.de
