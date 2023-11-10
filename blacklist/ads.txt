@@ -6,3 +6,4 @@ ads.pinterest.com
 adserver.unityads.unity3d.com
 auction.unityads.unity3d.com
 api.ad.xiaomi.com
+advertising.apple.com
