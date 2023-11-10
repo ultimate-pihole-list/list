@@ -15,3 +15,9 @@ api.bugsnag.com
 app.bugsnag.com
 browser.sentry-cdn.com
 app.getsentry.com
+smetrics.samsung.com
+metrics.icloud.com
+metrics.mzstatic.com
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
