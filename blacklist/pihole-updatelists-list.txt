@@ -214,3 +214,25 @@ https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt # block torr
 https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt # block tracking
 https://blocklistproject.github.io/Lists/alt-version/smart-tv-nl.txt # block smartTV tracking
 https://blocklistproject.github.io/Lists/alt-version/vaping-nl.txt # block vaping
+
+# osid
+https://small.oisd.nl # osid small
+https://big.oisd.nl # osid big
+https://nsfw.oisd.nl # block porn
+
+# developerdan
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt # block ads and tracking
+https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt # block hate and junk
+
+# StevenBlack
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts # block ads + tracking
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts # block fakenews
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts # block gambling
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts # block porn
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts # StevenBlack hosts
+
+# adaway
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt # block mobile ads and tracking
+
+# url house
+https://urlhaus.abuse.ch/downloads/hostfile/ # block malicious URLs
