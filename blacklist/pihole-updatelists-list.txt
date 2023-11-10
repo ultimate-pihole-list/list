@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies # blo
 https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients # block torrent clients
 https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers # block torrent tracker
 https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites # block torrent websites
-https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes block piracy bootstracp notes
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes # block piracy bootstracp notes
 
 #RPiList
 ## block porn
