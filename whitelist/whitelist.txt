@@ -19,3 +19,16 @@ firestore.googleapis.com
 
 ## Gmail
 googleapis.l.google.com
+
+# Microsoft
+## win10 update
+a-msedge.net
+slscr.update.microsoft.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+
+win10 internet check
+www.msftncsi.com
+msftncsi.com
+ipv6.msftncsi.com
+
