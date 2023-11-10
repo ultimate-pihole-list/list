@@ -7,3 +7,7 @@ adserver.unityads.unity3d.com
 auction.unityads.unity3d.com
 api.ad.xiaomi.com
 advertising.apple.com
+tr.iadsdk.apple.com
+iadsdk.apple.com
+samsungads.com
+bdapi-in-ads.realmemobile.com
