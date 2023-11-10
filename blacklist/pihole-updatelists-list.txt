@@ -197,3 +197,20 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSqua
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Vontobel # block fake banking sites
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/ZKB # block fake banking sites
 
+# blocklistprojekt
+https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt # block ads
+https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt # block crypto
+https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt # block bad domains
+https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt # block drugs
+https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt # block scams
+https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt # block gambling
+https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt # block malware
+https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt # block phishing
+https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt # block piracy
+https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt # block porn
+https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt # block ransomeware
+https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt # block scams
+https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt # block torrents
+https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt # block tracking
+https://blocklistproject.github.io/Lists/alt-version/smart-tv-nl.txt # block smartTV tracking
+https://blocklistproject.github.io/Lists/alt-version/vaping-nl.txt # block vaping
