@@ -14,3 +14,13 @@ https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/s
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos # block native sonos tracking
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows # block native windows tracking
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi # block native xiaomi tracking
+
+## block piracy
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting # block piracy filehosting
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio # block piracy audio hosting
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video # block piracy video hosting
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies # block piracy proxies
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients # block torrent clients
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers # block torrent tracker
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites # block torrent websites
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes block piracy bootstracp notes
