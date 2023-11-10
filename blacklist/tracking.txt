@@ -2,3 +2,16 @@ v.godatem.com
 vz.billatadate.com
 hse24.tvtelemetrie.de
 app-measurement.com
+analytics.google.com
+click.googleanalytics.com
+events.hotjar.io
+freshmarketer.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+stats.wp.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
