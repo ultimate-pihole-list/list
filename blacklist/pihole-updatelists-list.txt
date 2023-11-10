@@ -248,3 +248,6 @@ https://v.firebog.net/hosts/Easyprivacy.txt # easy privacy
 https://v.firebog.net/hosts/Prigent-Ads.txt # block ads
 https://v.firebog.net/hosts/Prigent-Crypto.txt # block fake crypto
 https://v.firebog.net/hosts/Prigent-Adult.txt # block adult sides
+
+# someonehocares
+https://someonewhocares.org/hosts/hosts # how to make the internet not suck (as much)
