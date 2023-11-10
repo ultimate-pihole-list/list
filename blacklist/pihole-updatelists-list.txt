@@ -1,1 +1,4 @@
-
+https://raw.githubusercontent.com/arbs09/ultimate-list/main/blacklist/ads.txt # my block ads list
+https://raw.githubusercontent.com/arbs09/ultimate-list/main/blacklist/phish.txt # my block phishing list
+https://raw.githubusercontent.com/arbs09/ultimate-list/main/blacklist/porn.txt # my block porn list
+https://raw.githubusercontent.com/arbs09/ultimate-list/main/blacklist/tracking.txt # my block tracking list
