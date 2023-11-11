@@ -243,7 +243,7 @@ https://urlhaus.abuse.ch/downloads/hostfile/ # block malicious URLs
 # metamask
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt # block eth phishing
 
-# firefbog
+# firebog
 https://v.firebog.net/hosts/static/w3kbl.txt # block Suspicious Sites
 https://v.firebog.net/hosts/AdguardDNS.txt # block ads
 https://v.firebog.net/hosts/Admiral.txt # block ads
