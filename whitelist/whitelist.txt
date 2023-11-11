@@ -1,97 +1,97 @@
 # These are my whitelists
 
 # Google
-clients4.google.com
-clients2.google.com
+clients4.google.com # for Google
+clients2.google.com # for Google
 
 ## Youtube History
-s.youtube.com
-video-stats.l.google.com
+s.youtube.com # for Youtube History
+video-stats.l.google.com # for Youtube History
 
 ## Google Play
-android.clients.google.com
-0.client-channel.google.com
-2.android.pool.ntp.org
+android.clients.google.com # for Google Play
+0.client-channel.google.com # for Google Play
+2.android.pool.ntp.org # for Google Play
 
 ## Google Keep
-reminders-pa.googleapis.com
-firestore.googleapis.com
+reminders-pa.googleapis.com # for Google Keep
+firestore.googleapis.com # for Google Keep
 
 ## Gmail
-googleapis.l.google.com
+googleapis.l.google.com # for Gmail
 
 # Microsoft
 ## win10 update
-a-msedge.net
-slscr.update.microsoft.com
-v10.vortex-win.data.microsoft.com
-settings-win.data.microsoft.com
+a-msedge.net # for windows update
+slscr.update.microsoft.com # for windows update
+v10.vortex-win.data.microsoft.com # for windows update
+settings-win.data.microsoft.com # for windows update
 
 ## win10 internet check
-www.msftncsi.com
-msftncsi.com
-ipv6.msftncsi.com
+www.msftncsi.com # for windows internet
+msftncsi.com # for windows internet
+ipv6.msftncsi.com # for windows internet
 
 ## microsoft pages
-outlook.office365.com
-products.office.com
-c.s-microsoft.com
-i.s-microsoft.com
-login.live.com
-login.microsoftonline.com
+outlook.office365.com # for microsoft pages
+products.office.com # for microsoft pages
+c.s-microsoft.com # for microsoft pages
+i.s-microsoft.com # for microsoft pages
+login.live.com # for microsoft pages
+login.microsoftonline.com # for microsoft pages
 
 ## windows bitlocker
-g.live.com
+g.live.com # for windows bitlocker
 
 ## Microsoft Store
-dl.delivery.mp.microsoft.com
-geo-prod.do.dsp.mp.microsoft.com
-displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com # for Microsoft Store
+geo-prod.do.dsp.mp.microsoft.com # for Microsoft Store
+displaycatalog.mp.microsoft.com # for Microsoft Store
 
 ## Xbox Live
-clientconfig.passport.net
-xbox.ipv6.microsoft.com
-device.auth.xboxlive.com
-www.msftncsi.com
-title.mgt.xboxlive.com
-xsts.auth.xboxlive.com
-title.auth.xboxlive.com
-ctldl.windowsupdate.com
-attestation.xboxlive.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-cert.mgt.xboxlife.com
-xkms.xboxlive.com
-def-vef.xboxlive.com
-notify.xboxlive.com
-help.ui.xboxlive.com
-licensing.xboxlive.com
-eds.xboxlive.com
-www.xboxlive.com
-v10.vortex-win.data.microsoft.com
-settings-win.data.microsoft.com
+clientconfig.passport.net # for Xbox Live
+xbox.ipv6.microsoft.com # for Xbox Live
+device.auth.xboxlive.com # for Xbox Live
+www.msftncsi.com # for Xbox Live
+title.mgt.xboxlive.com # for Xbox Live
+xsts.auth.xboxlive.com # for Xbox Live
+title.auth.xboxlive.com # for Xbox Live
+ctldl.windowsupdate.com # for Xbox Live
+attestation.xboxlive.com # for Xbox Live
+xboxexperiencesprod.experimentation.xboxlive.com # for Xbox Live
+xflight.xboxlive.com # for Xbox Live
+cert.mgt.xboxlife.com # for Xbox Live
+xkms.xboxlive.com # for Xbox Live
+def-vef.xboxlive.com # for Xbox Live
+notify.xboxlive.com # for Xbox Live
+help.ui.xboxlive.com # for Xbox Live
+licensing.xboxlive.com # for Xbox Live
+eds.xboxlive.com # for Xbox Live
+www.xboxlive.com # for Xbox Live
+v10.vortex-win.data.microsoft.com # for Xbox Live
+settings-win.data.microsoft.com # for Xbox Live
 
 ## Xbox Live Achievments
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
+v10.events.data.microsoft.com # for Xbox Live Achievments
+v20.events.data.microsoft.com # for Xbox Live Achievments
 
 ## Xbox Live Messaging
-client-s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com # for Xbox Live Messaging
 
 ## Skype
-s.gateway.messenger.live.com
-client-s.gateway.messenger.live.com
-ui.skype.com
-pricelist.skype.com
-apps.skype.com
-m.hotmail.com
-sa.symcb.com
+s.gateway.messenger.live.com # for Skype
+client-s.gateway.messenger.live.com # for Skype
+ui.skype.com # for Skype
+pricelist.skype.com # for Skype
+apps.skype.com # for Skype
+m.hotmail.com # for Skype
+sa.symcb.com # for Skype
 
 ## Office
-officeclient.microsoft.com
+officeclient.microsoft.com # for Office
 
 ## Bing
-dev.virtualearth.net
-ecn.dev.virtualearth.net
-t0.ssl.ak.dynamic.tiles.virtualearth.net
-t0.ssl.ak.tiles.virtualearth.net
+dev.virtualearth.net # for Bing
+ecn.dev.virtualearth.net # for Bing
+t0.ssl.ak.dynamic.tiles.virtualearth.net # for Bing
+t0.ssl.ak.tiles.virtualearth.net # for Bing
