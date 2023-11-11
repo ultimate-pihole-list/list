@@ -4,3 +4,4 @@ self.events.data.microsoft.com
 v10.events.data.microsoft.com
 functional.events.data.microsoft.com
 browser.events.data.msn.com
+manage.devcenter.microsoft.com
