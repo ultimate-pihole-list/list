@@ -95,3 +95,7 @@ dev.virtualearth.net # for Bing
 ecn.dev.virtualearth.net # for Bing
 t0.ssl.ak.dynamic.tiles.virtualearth.net # for Bing
 t0.ssl.ak.tiles.virtualearth.net # for Bing
+
+# ovh
+## mail
+ssl0.ovh.net # for ovh mail
