@@ -279,3 +279,6 @@ https://www.technoy.de/lists/xporn.txt # block porn
 
 # phishing.army
 https://phishing.army/download/phishing_army_blocklist_extended.txt # block phishing
+
+# chadmayfield
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list # block porn
