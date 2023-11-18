@@ -3,7 +3,7 @@ a pihole list
 
 List|Github|Notes
 ----|------|----
-my lists for [pihole-updatelists](https://github.com/jacklul/pihole-updatelists)|[Github](https://github.com/arbs09/ultimate-list/raw/main/blacklist/pihole-updatelists-list.txt)| Over 40.000.000 blocked sites!
+my lists for [pihole-updatelists](https://github.com/jacklul/pihole-updatelists)|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/pihole-updatelists-list.txt)| Over 40.000.000 blocked sites!
 block ads|[Github](https://github.com/arbs09/ultimate-list/raw/main/blacklist/ads.txt)
 block afd.de|[Github](https://raw.githubusercontent.com/arbs09/ultimate-list/main/blacklist/afd.txt)| Blocking the sites of afd.de
 block phishing|[Github](https://raw.githubusercontent.com/arbs09/ultimate-list/main/blacklist/phish.txt)
