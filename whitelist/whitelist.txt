@@ -4,6 +4,9 @@
 clients4.google.com # for Google
 clients2.google.com # for Google
 
+## some apps need this
+ssl.google-analytics.com # some apps need this
+
 ## Youtube History
 s.youtube.com # for Youtube History
 video-stats.l.google.com # for Youtube History
