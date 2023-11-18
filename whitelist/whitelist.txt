@@ -99,3 +99,6 @@ t0.ssl.ak.tiles.virtualearth.net # for Bing
 # ovh
 ## mail
 ssl0.ovh.net # for ovh mail
+
+# linktree
+linktr.ee # for linktree
