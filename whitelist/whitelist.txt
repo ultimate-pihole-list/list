@@ -105,3 +105,7 @@ ssl0.ovh.net # for ovh mail
 
 # linktree
 linktr.ee # for linktree
+
+# zave.it
+combine.urbanairship.com # for zave.it
+api.zave.it # for zave.it
