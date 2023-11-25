@@ -1,3 +1,1 @@
-*.arbs09.de
-*.serverobot.de
-*.onlinenode.de
+
