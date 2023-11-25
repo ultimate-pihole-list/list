@@ -288,3 +288,9 @@ https://adaway.org/hosts.txt # block ads
 
 # anudeep
 https://hosts.anudeep.me/mirror/adservers.txt # block ads
+https://hosts.anudeep.me/mirror/CoinMiner.txt # block cryptominer
+
+#ZeroDot1
+##CoinBlockerLists
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser # block cryptominer
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional # block cryptominer
