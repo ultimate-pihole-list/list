@@ -10,4 +10,5 @@ block phishing|[Github](https://raw.githubusercontent.com/arbs09/ultimate-list/m
 block porn|[Github](https://github.com/arbs09/ultimate-list/raw/main/blacklist/porn.txt)
 block tracking|[Github](https://github.com/arbs09/ultimate-list/raw/main/blacklist/tracking.txt)
 whitelist|[Github](https://raw.githubusercontent.com/arbs09/ultimate-list/main/whitelist/whitelist.txt)
+whitelist for affiliate marketing | [Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/whitelist/affiliate.txt)
 block windows tracking|[Github](https://raw.githubusercontent.com/arbs09/ultimate-list/main/blacklist/windows-tracking.txt)
