@@ -300,7 +300,7 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt # 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt # block pop-up ads
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt # block badware hoster
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt # block spam TLDs
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt block # gambling
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt # block gambling
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt # block TikTok tracker
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt # block Amazon device tracker
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt # block piracy
