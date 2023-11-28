@@ -295,7 +295,7 @@ https://hosts.anudeep.me/mirror/CoinMiner.txt # block cryptominer
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser # block cryptominer
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional # block cryptominer
 
-# hagezi
+# hagezi https://github.com/hagezi
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt # block fake
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt # block pop-up ads
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt # block badware hoster
@@ -308,3 +308,4 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.appl
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt # block windows tracker
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt # block lg webos tracker
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt # block ads, tracking and some malwere
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt # block bad stuff
