@@ -109,3 +109,6 @@ linktr.ee # for linktree
 # zave.it
 combine.urbanairship.com # for zave.it
 api.zave.it # for zave.it
+
+# Spotify
+api2.branch.io # for Spotify 
