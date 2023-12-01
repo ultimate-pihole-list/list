@@ -112,3 +112,7 @@ api.zave.it # for zave.it
 
 # Spotify
 api2.branch.io # for Spotify 
+
+# email
+## chess.com
+tracking.chess.com # for chess.com emails
