@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/porn.
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/tracking.txt # my block tracking list
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/afd.txt # my block afd list
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/windows-tracking.txt # my block windows tracking list
+https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/fire-tv.txt # my fire TV list
 
 # nextdns lists
 ## native tracking
