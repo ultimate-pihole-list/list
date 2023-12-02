@@ -116,5 +116,6 @@ audio-ak-spotify-com.akamaized.net # for Spotify
 
 # email
 e.customeriomail.com # for email
+
 ## chess.com
 tracking.chess.com # for chess.com emails
