@@ -12,3 +12,4 @@ block tracking|[Github](https://github.com/ultimate-pihole-list/list/raw/main/bl
 whitelist|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/whitelist/whitelist.txt)
 whitelist for affiliate marketing | [Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/whitelist/affiliate.txt)
 block windows tracking|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/windows-tracking.txt)
+block fire TV ads and tracker | [GitHub](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/fire-tv.txt)
