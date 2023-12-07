@@ -123,3 +123,4 @@ tracking.chess.com # for chess.com emails
 # short url
 ## tinyurl
 redirect.viglink.com # for tinyurl
+tinyurl.com # for tinyurl
