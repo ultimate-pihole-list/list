@@ -119,3 +119,7 @@ e.customeriomail.com # for email
 
 ## chess.com
 tracking.chess.com # for chess.com emails
+
+# short url
+## tinyurl
+redirect.viglink.com # for tinyurl
