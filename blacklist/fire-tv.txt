@@ -1,3 +1,2 @@
 # this removes ads and tracking from Fire TV
 unagi-eu.amazon.com
-ktpx-eu.amazon.com
