@@ -309,3 +309,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.wino
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt # block lg webos tracker
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt # block ads, tracking and some malwere
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt # block bad stuff
+
+# Perflyst
+https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt # block Session Replay
