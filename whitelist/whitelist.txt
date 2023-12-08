@@ -124,3 +124,7 @@ tracking.chess.com # for chess.com emails
 ## tinyurl
 redirect.viglink.com # for tinyurl
 tinyurl.com # for tinyurl
+
+# Amazon
+## firetv
+ktpx-eu.amazon.com # for fireTV
