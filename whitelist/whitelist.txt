@@ -1,6 +1,7 @@
 # These are my whitelists
 
 # Google
+www.googleapis.com # for Google
 clients4.google.com # for Google
 clients2.google.com # for Google
 
