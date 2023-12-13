@@ -1,3 +1,5 @@
+# contract: info@arbs09.de
+
 # RPiList
 ## block phishing
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe # block phishing
