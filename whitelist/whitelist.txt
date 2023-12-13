@@ -129,3 +129,6 @@ tinyurl.com # for tinyurl
 # Amazon
 ## firetv
 ktpx-eu.amazon.com # for fireTV
+
+# perspective
+Perspective.co # unblock perspective
