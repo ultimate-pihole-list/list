@@ -5,3 +5,9 @@ https://www.technoy.de/lists/xporn.txt
 https://v.firebog.net/hosts/Prigent-Adult.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
 https://nsfw.oisd.nl
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6
