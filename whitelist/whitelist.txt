@@ -132,3 +132,6 @@ ktpx-eu.amazon.com # for fireTV
 
 # perspective
 Perspective.co # unblock perspective
+
+# gleam
+gleam.io
