@@ -1,5 +1,14 @@
 # contract: info@arbs09.de
 
+# my lists
+https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/phish.txt # my block phishing list
+
+# blocklistprojekt
+https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt # block piracy
+
+# phishing.army
+https://phishing.army/download/phishing_army_blocklist_extended.txt # block phishing
+
 # RPiList
 ## block phishing
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe # block phishing
