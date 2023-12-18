@@ -137,3 +137,7 @@ Perspective.co # unblock perspective
 # gleam
 gleam.io # for giveaways
 www.gleam.io # for giveaways 
+
+# Instagram
+instagram.com # for Instagram 
+www.instagram.com # for Instagram 
