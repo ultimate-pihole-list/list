@@ -2,5 +2,5 @@
 
 list | Link | Notes | How many Domains blocked
 -----|------|-------|--------------------------
-basic | [Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/lists/basic.txt) | just blocking physhing
+basic | [Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/lists/basic.txt) | just blocking phishing
 ultimate | [Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/lists/ultimate.txt) | blocking a lot of domains | over 45.000.000 blocked domains
