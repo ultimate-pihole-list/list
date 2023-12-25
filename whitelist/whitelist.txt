@@ -141,3 +141,6 @@ www.gleam.io # for giveaways
 # Instagram
 instagram.com # for Instagram 
 www.instagram.com # for Instagram 
+
+# ahrefs
+ahrefs.com # allow ahrefs.com
