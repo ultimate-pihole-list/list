@@ -1,1 +1,1 @@
-
+^.*\.dns\.nextdns\.io$ # allow nnextdns
