@@ -6,3 +6,15 @@ afd.berlin
 afd.koeln
 afd.nrw
 afd.saarland
+afd-bw.de
+afd-mv.de
+afd-lsa.de
+afdsachsen.de
+afd-sh.de
+afd-brandenburg.de
+www.afd-thueringen.de
+afd-hamburg.de
+afdosnabrueck.de
+afd-moenchengladbach.de
+afdbundestag.de
+afdkompakt.de
