@@ -7,6 +7,7 @@ afd.koeln
 afd.nrw
 afd.saarland
 afd-bw.de
+afdbayern.de
 afd-mv.de
 afd-lsa.de
 afdsachsen.de
