@@ -8,6 +8,8 @@ afd.nrw
 afd.saarland
 afd-bw.de
 afdbayern.de
+www.afd-bremen.de
+afd-bremen.de
 afd-mv.de
 afd-lsa.de
 afdsachsen.de
