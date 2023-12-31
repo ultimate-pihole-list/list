@@ -2,6 +2,7 @@
 
 # my lists
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/phish.txt # my block phishing list
+https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/ip-logger.txt # my iplogger blocklist
 
 # blocklistprojekt
 https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt # block piracy
