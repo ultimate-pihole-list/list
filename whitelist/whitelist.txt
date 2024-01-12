@@ -147,3 +147,6 @@ ahrefs.com # allow ahrefs.com
 
 # gravatar
 public-api.wordpress.com # for gravatar
+
+# hostinger
+www.hostinger.de # for hostinger
