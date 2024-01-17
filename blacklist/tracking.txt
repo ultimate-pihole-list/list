@@ -28,3 +28,10 @@ analytics.query.yahoo.com
 log.fc.yahoo.com
 gemini.yahoo.com
 open.oneplus.net
+acfeedbackws.icloud.com
+api-adservices.apple.com
+feedbackws.fe.apple-dns.net
+feedbackws.icloud.com
+iadsdk.apple.com
+notes-analytics-events.news.apple-dns.net
+weather-analytics-events.news.apple-dns.net
