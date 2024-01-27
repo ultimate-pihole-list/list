@@ -316,3 +316,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt # b
 
 # Perflyst
 https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt # block Session Replay
+
+# hagezu
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt # a big Blocklist 
