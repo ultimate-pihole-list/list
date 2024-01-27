@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/afd.t
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/windows-tracking.txt # my block windows tracking list
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/fire-tv.txt # my fire TV list
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/ip-logger.txt # my iplogger blocklist
+https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/malware.txt # my malware blocklist
 
 # nextdns lists
 ## native tracking
