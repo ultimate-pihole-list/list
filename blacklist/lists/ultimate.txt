@@ -1,3 +1,5 @@
+# contract: info@arbs09.de
+
 # my lists
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/ads.txt # my block ads list
 https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/phish.txt # my block phishing list
