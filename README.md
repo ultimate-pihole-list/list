@@ -13,12 +13,16 @@ porn|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/b
 # individual block list
 List|Github|jsDelivr|Notes
 ----|------|--------|-----
-block ads|[Github](https://github.com/ultimate-pihole-list/list/raw/main/blacklist/ads.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/ads.txt)| my optinal ad blocklist
+block ads|[Github](https://github.com/ultimate-pihole-list/list/raw/main/blacklist/ads.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/ads.txt)|my ad blocklist
+block fire TV ads and tracker|[GitHub](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/fire-tv.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/fire-tv.txt)
+block ip loggers|[GitHub](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/ip-logger.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/ip-logger.txt)
+block malware|[GitHub](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/malware.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/malware.txt)
 block phishing|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/phish.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/phish.txt)
 block porn|[Github](https://github.com/ultimate-pihole-list/list/raw/main/blacklist/porn.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/porn.txt)
+regex blocklist|[Github](https://github.com/ultimate-pihole-list/list/raw/main/blacklist/regex.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/regex.txt)
 block tracking|[Github](https://github.com/ultimate-pihole-list/list/raw/main/blacklist/tracking.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/tracking.txt)
 block windows tracking|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/windows-tracking.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/windows-tracking.txt)
-block fire TV ads and tracker | [GitHub](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/fire-tv.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/fire-tv.txt)
+
 
 ## political
 List|Github|jsDelivr|Notes
