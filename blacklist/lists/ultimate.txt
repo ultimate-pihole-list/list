@@ -1,15 +1,15 @@
 # contract: info@arbs09.de
 
 # my lists
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/ads.txt # my block ads list
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/phish.txt # my block phishing list
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/porn.txt # my block porn list
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/tracking.txt # my block tracking list
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/afd.txt # my block afd list
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/windows-tracking.txt # my block windows tracking list
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/fire-tv.txt # my fire TV list
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/ip-logger.txt # my iplogger blocklist
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/malware.txt # my malware blocklist
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/ads.txt # my block ads list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/phish.txt # my block phishing list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/porn.txt # my block porn list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/tracking.txt # my block tracking list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/afd.txt # my block afd list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/windows-tracking.txt # my block windows tracking list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/fire-tv.txt # my fire TV list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/ip-logger.txt # my iplogger blocklist
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/malware.txt # my malware blocklist
 
 # nextdns lists
 ## native tracking
