@@ -204,6 +204,8 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSqua
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Vontobel # block fake banking sites
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/ZKB # block fake banking sites
 
+## polical
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/SupportingRussia # block sites that support Russia
 # blocklistprojekt
 https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt # block ads
 https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt # block crypto
