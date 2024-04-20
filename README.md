@@ -4,9 +4,11 @@ a pihole list
 # bundled lists
 for [pihole-updatelists](https://github.com/jacklul/pihole-updatelists)
 
-List|Github|jsDelivr|Notes
+List|Github|jsDelivr|What is blocked?|Number of blocked domains|Notes
 ----|------|--------|-----
-ultimate|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/lists/ultimate.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/lists/ultimate.txt)| Over 45.000.000 blocked sites!
+ultimate|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/lists/ultimate.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/lists/ultimate.txt)|everything that I don´t want to see in my network|Over 45.000.000 blocked domains|
+basic|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/lists/basic.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/lists/basic.txt)|just blocking, phishing and porn||
+porn|[Github](https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/lists/porn.txt)|[jsDelivr](https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/lists/porn.txt)|just blocking porn||
 
 # individual block list
 List|Github|jsDelivr|Notes
