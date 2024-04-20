@@ -1,10 +1,10 @@
 # contract: info@arbs09.de
 
 # my lists
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/phish.txt # my block phishing list
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/ip-logger.txt # my iplogger blocklist
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/porn.txt # my porn blocklist
-https://raw.githubusercontent.com/ultimate-pihole-list/list/main/blacklist/malware.txt # my malware blocklist
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/phish.txt # my block phishing list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/ip-logger.txt # my iplogger blocklist
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/porn.txt # my porn blocklist
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/malware.txt # my malware blocklist
 
 # blocklistprojekt
 https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt # block piracy
