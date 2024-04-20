@@ -321,3 +321,6 @@ https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt # block Session Rep
 
 # hagezu
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt # a big Blocklist 
+
+# DuckDuckGo
+https://raw.githubusercontent.com/Monstanner/DuckDuckGo-Fakeshops-Blocklist/main/Blockliste 
