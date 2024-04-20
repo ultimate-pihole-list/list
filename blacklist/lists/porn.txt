@@ -1,6 +1,6 @@
 # contact: info@arbs09.de
 
-https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list@master/blacklist/porn.txt
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/porn.txt
 https://cdn.jsdelivr.net/gh/chadmayfield/my-pihole-blocklists/lists/pi_blocklist_porn_top1m.list
 https://www.technoy.de/lists/xporn.txt
 https://v.firebog.net/hosts/Prigent-Adult.txt
