@@ -289,6 +289,7 @@ https://phishing.army/download/phishing_army_blocklist_extended.txt # block phis
 
 # chadmayfield
 https://cdn.jsdelivr.net/gh/chadmayfield/my-pihole-blocklists/lists/pi_blocklist_porn_top1m.list # block porn
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list # block a lot of porn
 
 # adaway
 https://adaway.org/hosts.txt # block ads
