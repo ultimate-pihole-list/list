@@ -1,5 +1,5 @@
 # ultimate-list
-a pihole list
+a collection of pihole lists
 
 # bundled lists
 for [pihole-updatelists](https://github.com/jacklul/pihole-updatelists)
