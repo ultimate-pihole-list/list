@@ -233,6 +233,7 @@ https://nsfw.oisd.nl # block porn
 # developerdan
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt # block ads and tracking
 https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt # block hate and junk
+https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt # block tracking
 
 # StevenBlack
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts # block ads + tracking
