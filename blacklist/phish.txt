@@ -39,3 +39,4 @@ k8agv.app.link
 enu9s.app.link
 dhlwy.com # DHL Phishing site
 telia-membership.cyou # DHL Phishing SMS
+23-vr-erneurn.online # Banking Phishing SMS 
