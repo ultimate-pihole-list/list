@@ -151,5 +151,5 @@ public-api.wordpress.com # for gravatar
 # hostinger
 www.hostinger.de # for hostinger
 
-# for jsdelivr
-cdn.jsdelivr.net
+# jsdelivr
+cdn.jsdelivr.net# for jsdelivr
