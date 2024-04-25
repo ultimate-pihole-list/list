@@ -1,3 +1,4 @@
+[![](https://data.jsdelivr.com/v1/package/gh/ultimate-pihole-list/list/badge)](https://www.jsdelivr.com/package/gh/ultimate-pihole-list/list)
 # ultimate-list
 a collection of pihole lists
 
