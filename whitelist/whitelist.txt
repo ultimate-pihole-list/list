@@ -164,3 +164,6 @@ cdn.jsdelivr.net # for jsdelivr
 
 # ipinfo.io
 ipinfo.io # for ipinfo
+
+# umami
+umami.is # for private analytics
