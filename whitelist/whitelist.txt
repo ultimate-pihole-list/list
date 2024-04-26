@@ -130,14 +130,14 @@ tinyurl.com # for tinyurl
 # Amazon
 ## firetv
 ktpx-eu.amazon.com # for fireTV
-api.amazonalexa.com # for Amazion alexa
-dcape-na.amazon.com # for Amazon fireTV
-arcus-uswest.amazon.com # for Amazon fireTV
-dcape-na.amazon.com # for Amazon fireTV
-arcus-uswest.amazon.com # for Amazon fireTV
-arcus-uswest.amazon.com # for Amazon fireTV
-msh.amazon.com # for Amazon fireTV
-ftvr-na.amazon.com # for Amazon fireTV
+#api.amazonalexa.com # for Amazion alexa #need to be tested
+#dcape-na.amazon.com # for Amazon fireTV #need to be tested
+#arcus-uswest.amazon.com # for Amazon fireTV #need to be tested
+#dcape-na.amazon.com # for Amazon fireTV #need to be tested
+#arcus-uswest.amazon.com # for Amazon fireTV #need to be tested
+#arcus-uswest.amazon.com # for Amazon fireTV #need to be tested
+#msh.amazon.com # for Amazon fireTV #need to be tested
+#ftvr-na.amazon.com # for Amazon fireTV #need to be tested
 
 # perspective
 Perspective.co # unblock perspective
