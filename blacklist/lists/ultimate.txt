@@ -324,8 +324,8 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.tx
 
 # Perflyst
 https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklist/SessionReplay.txt # block Session Replay
-https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklist/SmartTV.txt
-https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklis/android-tracking.txt
+https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklist/SmartTV.txt # block SmartTV tracking and ads
+https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklis/android-tracking.txt # block Android tracking and ads
 
 # DuckDuckGo
-https://cdn.jsdelivr.net/gh/Monstanner/DuckDuckGo-Fakeshops-Blocklist/Blockliste 
+https://cdn.jsdelivr.net/gh/Monstanner/DuckDuckGo-Fakeshops-Blocklist/Blockliste # block FakeShops
