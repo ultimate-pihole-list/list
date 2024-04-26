@@ -301,7 +301,7 @@ https://adaway.org/hosts.txt # block ads
 https://hosts.anudeep.me/mirror/adservers.txt # block ads
 https://hosts.anudeep.me/mirror/CoinMiner.txt # block cryptominer
 
-#ZeroDot1
+# ZeroDot1
 ##CoinBlockerLists
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser # block cryptominer
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional # block cryptominer
@@ -323,7 +323,9 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt # b
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt # a big Blocklist 
 
 # Perflyst
-https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt # block Session Replay
+https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklist/SessionReplay.txt # block Session Replay
+https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklist/SmartTV.txt
+https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklis/android-tracking.txt
 
 # DuckDuckGo
 https://cdn.jsdelivr.net/gh/Monstanner/DuckDuckGo-Fakeshops-Blocklist/Blockliste 
