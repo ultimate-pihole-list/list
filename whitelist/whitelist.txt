@@ -24,6 +24,9 @@ firestore.googleapis.com # for Google Keep
 ## Gmail
 googleapis.l.google.com # for Gmail
 
+## Google Search Console
+pagespeed.web.dev # for pagespeed
+
 # Microsoft
 ## win10 update
 a-msedge.net # for windows update
