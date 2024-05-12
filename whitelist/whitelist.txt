@@ -171,6 +171,7 @@ ipinfo.io # for ipinfo
 # umami
 umami.is # for private analytics
 cloud.umami.is # for private analytics
+analytics.eu.umami.is # for private analytics
 
 # for some apps
 cleverpush.com # for push notifications 
