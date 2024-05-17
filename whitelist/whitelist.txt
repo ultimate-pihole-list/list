@@ -177,6 +177,7 @@ analytics.eu.umami.is # for private analytics
 cleverpush.com # for push notifications
 gravatar.com # for profile pictures
 www.gravatar.com # for profile pictures
+secure.gravatar.com # for profile pictures
 app.ahrefs.com # ahrefs
 
 # canva
