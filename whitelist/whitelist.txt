@@ -118,6 +118,7 @@ api.zave.it # for zave.it
 api2.branch.io # for Spotify 
 audio-ak-spotify-com.akamaized.net # for Spotify
 wl.spotify.com # for Spotify
+video-fa.scdn.co # for Spotify
 
 # email
 e.customeriomail.com # for email
