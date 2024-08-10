@@ -15,147 +15,147 @@ https://phishing.army/download/phishing_army_blocklist_extended.txt # block phis
 
 # RPiList
 ## block phishing
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/Phishing-Angriffe # block phishing
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting1 # block domain sqatting
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting2 # block domain sqatting
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting3 # block domain sqatting
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting4 # block domain sqatting
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-0 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-1-Teil-1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-1-Teil-2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-3-Teil-1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-3-Teil-2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-4 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-5-Teil-1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-5-Teil-2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-6 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-7-Teil-1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-7-Teil-2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-8-Teil-1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-8-Teil-2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-9-Teil-1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-9-Teil-2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-9-Teil-3 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/BadenWuerttemberg1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/BadenWuerttemberg2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Bayern1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Bayern2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Berlin # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Brandenburg # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Hamburg # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Hessen1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Hessen2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/MecklenburgVorpommern # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/NRW1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/NRW2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/NRW3 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/NRW4 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Niedersachsen1 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Niedersachsen2 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/RheinlandPfalz # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Saarland # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Sachsen # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/SachsenAnhalt # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/SchleswigHolstein # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/Sparkasse/Thueringen # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Comdirect # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Commerzbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Consorsbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Deka # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/DeutscheBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/HamburgCommercialBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/HelebaBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Hypovereinsbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/ING # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/KFWBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/LandesbankBadenWuerttemberg # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/NRWBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/NorddeutscheLandesbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Pfandbriefbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Postbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/SantanderBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Sparda-Bank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/StaatsbankBadenWuerttemberg # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/Targobank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/DE/sonstige_Banken/VolkswagenBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/AddikoBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/AnadiBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/BKSBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Bank99 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/BankBurgenland # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Bawag # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/ConsorsFinanz # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Denizbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Easybank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Eurambank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Hypotirol # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Kommunalkreditinvest # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/LichtensteinischeLandesbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/N26 # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/OberBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/PrivatBankRaiffeisenlandesbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/RaiffeisenBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Raiffeisenzertifikate # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/RenaultBankdirekt # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/SWKBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/SantanderBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/SchelhammerCapitalBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Schoellerbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/SpardaBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/SparkasseBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/TFBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/Teambank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/UniCreditBankAustria # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/VolksbankKaernten # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/VolksbankNiederoesterreich # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/VolksbankOberoesterreich # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/VolksbankSalzburg # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/VolksbankSteiermark # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/VolksbankTirol # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/VolksbankVorarlberg # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/VolksbankWien # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/AT/ZuercherKantonalbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/AargauischeKantonalbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/AlternativeBankSchweiz # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Arabbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/BCJ-BanqueCantonaleduJura # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/BCN-BanqueCantonaleNeuchateloise # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/BCVS-BanqueCantonaleduValais # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/BNP-Paribas # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/BankCler # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/CIC # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Ca-Indosuez # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Cash # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Citi # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Credit-Suisse-AG # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/DZ-Privatbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Gemeinschaftsbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/HelvetischeBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Heritage # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/HypoVoralberg # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Hypobank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/JSafraSarasin # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/LGTBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Mbaerbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Migrosbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Monyland # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/NeonSchwitzerlandAG # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/ObwaldnerKantonalbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/OneSwissBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/PKB # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/PPI-Schweiz # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/PostFinance # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Raiffeisen # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/SNB-SchweizerischeNationalbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/SaxoBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/SchwyzerKantonalbank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Swissbanking # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/SyzGroup # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/UBS # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/VPBank # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/Vontobel # block fake banking sites
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/DomainSquatting/CH/ZKB # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe # block phishing
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting1 # block domain sqatting
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting2 # block domain sqatting
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting3 # block domain sqatting
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting4 # block domain sqatting
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-0 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-1-Teil-1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-1-Teil-2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-3-Teil-1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-3-Teil-2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-4 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-5-Teil-1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-5-Teil-2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-6 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-7-Teil-1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-7-Teil-2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-8-Teil-1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-8-Teil-2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-9-Teil-1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-9-Teil-2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Volks-und-Raiffeisenbank/VR-PLZ-9-Teil-3 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/BadenWuerttemberg1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/BadenWuerttemberg2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Bayern1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Bayern2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Berlin # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Brandenburg # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Hamburg # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Hessen1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Hessen2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/MecklenburgVorpommern # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/NRW1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/NRW2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/NRW3 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/NRW4 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Niedersachsen1 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Niedersachsen2 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/RheinlandPfalz # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Saarland # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Sachsen # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/SachsenAnhalt # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/SchleswigHolstein # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/Sparkasse/Thueringen # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Comdirect # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Commerzbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Consorsbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Deka # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/DeutscheBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/HamburgCommercialBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/HelebaBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Hypovereinsbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/ING # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/KFWBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/LandesbankBadenWuerttemberg # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/NRWBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/NorddeutscheLandesbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Pfandbriefbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Postbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/SantanderBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Sparda-Bank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/StaatsbankBadenWuerttemberg # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/Targobank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/DE/sonstige_Banken/VolkswagenBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/AddikoBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/AnadiBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/BKSBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Bank99 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/BankBurgenland # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Bawag # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/ConsorsFinanz # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Denizbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Easybank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Eurambank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Hypotirol # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Kommunalkreditinvest # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/LichtensteinischeLandesbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/N26 # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/OberBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/PrivatBankRaiffeisenlandesbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/RaiffeisenBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Raiffeisenzertifikate # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/RenaultBankdirekt # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/SWKBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/SantanderBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/SchelhammerCapitalBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Schoellerbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/SpardaBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/SparkasseBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/TFBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/Teambank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/UniCreditBankAustria # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/VolksbankKaernten # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/VolksbankNiederoesterreich # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/VolksbankOberoesterreich # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/VolksbankSalzburg # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/VolksbankSteiermark # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/VolksbankTirol # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/VolksbankVorarlberg # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/VolksbankWien # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/AT/ZuercherKantonalbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/AargauischeKantonalbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/AlternativeBankSchweiz # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Arabbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/BCJ-BanqueCantonaleduJura # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/BCN-BanqueCantonaleNeuchateloise # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/BCVS-BanqueCantonaleduValais # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/BNP-Paribas # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/BankCler # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/CIC # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Ca-Indosuez # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Cash # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Citi # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Credit-Suisse-AG # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/DZ-Privatbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Gemeinschaftsbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/HelvetischeBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Heritage # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/HypoVoralberg # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Hypobank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/JSafraSarasin # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/LGTBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Mbaerbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Migrosbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Monyland # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/NeonSchwitzerlandAG # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/ObwaldnerKantonalbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/OneSwissBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/PKB # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/PPI-Schweiz # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/PostFinance # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Raiffeisen # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/SNB-SchweizerischeNationalbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/SaxoBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/SchwyzerKantonalbank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Swissbanking # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/SyzGroup # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/UBS # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/VPBank # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/Vontobel # block fake banking sites
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting/CH/ZKB # block fake banking sites
 
 # porn
 https://cdn.jsdelivr.net/gh/chadmayfield/my-pihole-blocklists/lists/pi_blocklist_porn_top1m.list # block porn
@@ -163,9 +163,9 @@ https://www.technoy.de/lists/xporn.txt # block porn
 https://v.firebog.net/hosts/Prigent-Adult.txt # block porn
 https://cdn.jsdelivr.net/gh/StevenBlack/hosts/alternates/porn-only/hosts # block porn
 https://nsfw.oisd.nl # block porn
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/pornblock1 # block porn
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/pornblock2 # block porn
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/pornblock3 # block porn
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/pornblock4 # block porn
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/pornblock5 # block porn
-https://cdn.jsdelivr.net/gh/RPiList/specials/Blocklisten/pornblock6 # block porn
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1 # block porn
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2 # block porn
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3 # block porn
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4 # block porn
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5 # block porn
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6 # block porn
