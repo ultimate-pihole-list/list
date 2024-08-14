@@ -183,3 +183,6 @@ app.ahrefs.com # ahrefs
 
 # canva
 canva.site # for on canva hosted sites
+
+# pygard
+pyguard.top # allow pyguard.top
