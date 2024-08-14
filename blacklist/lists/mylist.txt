@@ -1,0 +1,11 @@
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/ads.txt # my block ads list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/afd.txt # my block afd list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/fire-tv.txt # my fire TV list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/ip-logger.txt # my iplogger blocklist
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/malware.txt # my malware blocklist
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/nft.txt # my nft/crypto scam blocklist
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/phish.txt # my block phishing list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/porn.txt # my block porn list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/right-web.txt # block right websites
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/tracking.txt # my block tracking list
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/windows-tracking.txt # my block windows tracking list
