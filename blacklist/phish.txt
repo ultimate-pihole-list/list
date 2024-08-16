@@ -42,3 +42,4 @@ telia-membership.cyou # DHL Phishing SMS
 23-vr-erneurn.online # Banking Phishing SMS
 coba-comdire.com # Banking Phishing SMS
 mobil-com.direct # Banking Phishing SMS 
+intracutaneous.quest
