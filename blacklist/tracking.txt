@@ -40,3 +40,4 @@ facemojikeyboard.com
 ssl.google-analytics.com
 glitchtip.jgeek00.com
 variations.brave.com
+google-analytics.com
