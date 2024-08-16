@@ -43,3 +43,4 @@ telia-membership.cyou # DHL Phishing SMS
 coba-comdire.com # Banking Phishing SMS
 mobil-com.direct # Banking Phishing SMS 
 intracutaneous.quest
+krfx.ru
