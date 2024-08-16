@@ -42,3 +42,4 @@ glitchtip.jgeek00.com
 variations.brave.com
 google-analytics.com
 graph.facebook.com
+logs.netflix.com
