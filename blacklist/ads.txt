@@ -11,3 +11,4 @@ tr.iadsdk.apple.com
 iadsdk.apple.com
 samsungads.com
 bdapi-in-ads.realmemobile.com
+googleads.g.doubleclick.net
