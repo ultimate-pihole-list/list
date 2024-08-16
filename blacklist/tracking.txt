@@ -38,3 +38,5 @@ weather-analytics-events.news.apple-dns.net
 syndication.twitter.com
 facemojikeyboard.com
 ssl.google-analytics.com
+glitchtip.jgeek00.com
+variations.brave.com
