@@ -5,3 +5,4 @@
 (\.porn$|\.sex$|\.xxx$|\.sexy$|\.webcam$|\.cam$|\.tube$|\.adult$|\.gay$) # block porn
 (\.casino$|\.bet$|\.poker$) # block casino
 watson\..*\.microsoft\.com # block windows telementry
+(softonic\.com$|uptodown\.com$|malavida\.com$) # block
