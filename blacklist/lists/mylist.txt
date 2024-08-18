@@ -8,5 +8,6 @@ https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/phish.txt # my b
 https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/porn.txt # my block porn list
 https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/right-web.txt # block right websites
 https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/smart-home.txt # my block smart home tracking
+https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/smart-tv.txt # my smart tv tracking blocklist
 https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/tracking.txt # my block tracking list
 https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/windows-tracking.txt # my block windows tracking list
