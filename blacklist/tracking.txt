@@ -46,3 +46,4 @@ logs.netflix.com
 catch.crashguard.me
 catch6.crashguard.me
 app.adjust.com
+collector.wdp.brave.com
