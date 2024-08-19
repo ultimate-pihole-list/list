@@ -26,3 +26,4 @@ advertising.amazon.dev
 data.alexa.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
+web.diagnostic.networking.aws.dev
