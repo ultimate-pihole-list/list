@@ -12,3 +12,4 @@ iadsdk.apple.com
 samsungads.com
 bdapi-in-ads.realmemobile.com
 googleads.g.doubleclick.net
+ssl.gstatic.com
