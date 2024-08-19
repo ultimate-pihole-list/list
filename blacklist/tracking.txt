@@ -43,3 +43,6 @@ variations.brave.com
 google-analytics.com
 graph.facebook.com
 logs.netflix.com
+catch.crashguard.me
+catch6.crashguard.me
+app.adjust.com
