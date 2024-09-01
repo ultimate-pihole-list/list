@@ -1,3 +1,6 @@
+# Title: Ads (arbs09)
+# Contact: info@arbs09.de
+
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
