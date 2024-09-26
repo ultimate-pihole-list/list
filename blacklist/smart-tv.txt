@@ -42,3 +42,6 @@ tvmeta-dynamic.tvinteractive.tv
 alphonso.tv
 tv.ads.spotx.tv
 customerevents.netflix.com
+api.cid.samba.tv
+platform.cid.samba.tv
+preferences.cid.samba.tv
