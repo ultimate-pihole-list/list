@@ -43,3 +43,4 @@ https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/torrent-clients # block to
 https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/torrent-trackers # block torrent tracker
 https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/torrent-websites # block torrent websites
 https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/dht-bootstrap-nodes # block piracy bootstracp notes
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails # block spam mails
