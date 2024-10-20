@@ -27,3 +27,19 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4 # block porn
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5 # block porn
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6 # block porn
+https://cdn.jsdelivr.net/gh/nextdns/native-tracking-domains/domains/alexa # block native alexa tracking
+https://cdn.jsdelivr.net/gh/nextdns/native-tracking-domains/domains/apple # block native apple tracking
+https://cdn.jsdelivr.net/gh/nextdns/native-tracking-domains/domains/huawei # blocking native huawei tracking
+https://cdn.jsdelivr.net/gh/nextdns/native-tracking-domains/domains/roku # block native roku tracking
+https://cdn.jsdelivr.net/gh/nextdns/native-tracking-domains/domains/samsung # block native samsung tracking
+https://cdn.jsdelivr.net/gh/nextdns/native-tracking-domains/domains/sonos # block native sonos tracking
+https://cdn.jsdelivr.net/gh/nextdns/native-tracking-domains/domains/windows # block native windows tracking
+https://cdn.jsdelivr.net/gh/nextdns/native-tracking-domains/domains/xiaomi # block native xiaomi tracking
+https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/file-hosting # block piracy filehosting
+https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/streaming-audio # block piracy audio hosting
+https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/streaming-video # block piracy video hosting
+https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/proxies # block piracy proxies
+https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/torrent-clients # block torrent clients
+https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/torrent-trackers # block torrent tracker
+https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/torrent-websites # block torrent websites
+https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/dht-bootstrap-nodes # block piracy bootstracp notes
