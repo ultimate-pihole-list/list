@@ -44,3 +44,47 @@ https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/torrent-trackers # block t
 https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/torrent-websites # block torrent websites
 https://cdn.jsdelivr.net/gh/nextdns/piracy-blocklists/dht-bootstrap-nodes # block piracy bootstracp notes
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails # block spam mails
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts # block ads + tracking
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts # block fakenews
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts # block gambling
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts # block porn
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts # StevenBlack hosts
+https://cdn.jsdelivr.net/gh/AdAway/adaway.github.io/hosts.txt # block mobile ads and tracking
+https://urlhaus.abuse.ch/downloads/hostfile/ # block malicious URLs
+https://cdn.jsdelivr.net/gh/MetaMask/eth-phishing-detect/src/hosts.txt # block eth phishing
+https://v.firebog.net/hosts/static/w3kbl.txt # block Suspicious Sites
+https://v.firebog.net/hosts/AdguardDNS.txt # block ads
+https://v.firebog.net/hosts/Admiral.txt # block ads
+https://v.firebog.net/hosts/Easyprivacy.txt # easy privacy
+https://v.firebog.net/hosts/Prigent-Ads.txt # block ads
+https://v.firebog.net/hosts/Prigent-Crypto.txt # block fake crypto
+https://v.firebog.net/hosts/Prigent-Adult.txt # block adult sides
+https://someonewhocares.org/hosts/hosts # how to make the internet not suck (as much)
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1 # block ads
+https://cybertalk.io/lists/FireTVAds.txt # block FireTV ads
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt # block tracking
+https://www.technoy.de/lists/Session-Replay.txt # block Session Replay
+https://www.technoy.de/lists/Suspicious.txt # block bad domains
+https://www.technoy.de/lists/fake-streaming.txt # block fake streaming
+https://www.technoy.de/lists/malware2.txt # block malware
+https://www.technoy.de/lists/xporn.txt # block porn
+https://cdn.jsdelivr.net/gh/chadmayfield/my-pihole-blocklists/lists/pi_blocklist_porn_top1m.list # block porn
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list # block a lot of porn
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt # block fake
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt # block pop-up ads
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt # block badware hoster
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt # block spam TLDs
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt # block gambling
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt # block TikTok tracker
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt # block Amazon device tracker
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt # block piracy
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt # block apple tracker
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt # block windows tracker
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt # block lg webos tracker
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt # block ads, tracking and some malwere
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt # block bad stuff
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt # a big Blocklist 
+https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklist/SessionReplay.txt # block Session Replay
+https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklist/SmartTV.txt # block SmartTV tracking and ads
+https://cdn.jsdelivr.net/gh/Perflyst/PiHoleBlocklist/android-tracking.txt # block Android tracking and ads
+https://cdn.jsdelivr.net/gh/Monstanner/DuckDuckGo-Fakeshops-Blocklist/Blockliste # block FakeShops
