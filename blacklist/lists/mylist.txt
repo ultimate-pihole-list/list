@@ -11,3 +11,4 @@ https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/smart-home.txt #
 https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/smart-tv.txt # my smart tv tracking blocklist
 https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/tracking.txt # my block tracking list
 https://cdn.jsdelivr.net/gh/ultimate-pihole-list/list/blacklist/windows-tracking.txt # my block windows tracking list
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
