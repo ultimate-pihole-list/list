@@ -1,5 +1,5 @@
 ^wpad\. # wpad Protokoll verbieten
-(\.cn$|\.ru$|\.su$|\.vn$|\.top$) # block china, russia, Soviet Union, Vietnam, .top-TLD for spam
+(\.cn$|\.ru$|\.su$|\.vn$) # block china, russia, Soviet Union, Vietnam for spam
 \.zip$ # block .zip
 .*(xn--).* # block Punycode-Domains
 (\.porn$|\.sex$|\.xxx$|\.sexy$|\.webcam$|\.cam$|\.tube$|\.adult$|\.gay$) # block porn
